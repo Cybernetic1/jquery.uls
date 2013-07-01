@@ -58,7 +58,7 @@
 					</div>\
 				</div>\
 			</div>\
-			<div id="search" class="row search"> \
+			<div id="uls-search" class="row search"> \
 				<div class="one column">\
 					<span class="search-label"></span>\
 				</div>\
