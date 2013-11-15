@@ -32,7 +32,7 @@
 			</div> \
 			<div class="row"> \
 				<div class="uls-title-region seven columns">\
-					<h1 data-i18n="uls-select-language" class="uls-title">Select Language</h1>\
+					<h1 data-i18n="uls-select-language" class="uls-title">Select language:</h1>\
 				</div>\
 				<div class="five columns map-block" id="map-block">\
 					<div class="row">\
