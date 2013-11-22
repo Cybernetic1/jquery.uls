@@ -559,7 +559,7 @@ rtlscripts:
  # The numbers are also used in HTML id attributes
 regiongroups:
  # Worldwide, international
-  WW: 1
+  WW: 3
  # Special languages. To be shown near Worldwide when relevant.
   SP: 1
  # America
