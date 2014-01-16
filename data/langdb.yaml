@@ -79,6 +79,7 @@ languages:
   chy: [Latn, [AM], Tsetsêhestâhese]
   ckb: [Arab, [ME], کوردی]
   cn: [Hans, [WW], 中文]
+  conkey: [Hans, [WW], Concept Keyboard]
   co: [Latn, [EU], corsu]
   cps: [Latn, [AS], Capiceño]
   cr: [Cans, [AM], ᓀᐦᐃᔭᐍᐏᐣ]
@@ -559,7 +560,7 @@ rtlscripts:
  # The numbers are also used in HTML id attributes
 regiongroups:
  # Worldwide, international
-  WW: 3
+  WW: 4
  # Special languages. To be shown near Worldwide when relevant.
   SP: 1
  # America
